@@ -7,6 +7,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 18px;
 }
 p {
     margin: 0;
@@ -53,7 +54,7 @@ main {
 
 p.login-title {
     font-family: Axiforma;
-    font-size: 26.67px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 33.33px;
     color: #FFFFFF;
@@ -61,7 +62,7 @@ p.login-title {
 }
 p.login-text-description {
     font-family: Axiforma;
-    font-size: 13.33px;
+    font-size: 0.75rem;
     font-weight: 400;
     line-height: 16.67px;
     color: #AFAFAF;
@@ -80,17 +81,17 @@ p.login-text-description {
 
 }
 .email-pass-config {
-    font-size: 8px;
+    font-size: 0.5rem;
 }
 .area-with-login-button {
     display: flex;
     justify-content: space-between;
-    font-size: 9.33px;
+    font-size: 0.5rem;
     color: #4E4E4E;
 }
 span {
     font-family: Axiforma;
-    font-size: 9.33px;
+    font-size: 0.5rem;
     font-weight: 600;
     line-height: 15.22px;
     text-align: left;
@@ -115,7 +116,7 @@ button {
     width: 100.67px;
     height: 28px;
     border-radius: 5.33px;
-    font-size: 9.33px;
+    font-size: 0.5rem;
     font-family: Axiforma;
 
 }
@@ -165,7 +166,7 @@ button {
         font-family: Axiforma;
     }
     .area-with-login-button {
-        font-size: 9.33px;
+        font-size: 0.5rem;
         color: #4E4E4E;
         flex-direction: column-reverse;
         align-items: center;
@@ -178,17 +179,17 @@ button {
         width: 100%;
         height: 28px;
         border-radius: 5.33px;
-        font-size: 9.33px;
+        font-size: 0.5rem;
         font-family: Axiforma;
     
     }
     p.login-title {
-        font-size: 18.11px;
+        font-size: 1rem;
 
  
     }
     p.login-text-description {
-        font-size: 9px;
+        font-size: 0.5rem;
 
 
         
